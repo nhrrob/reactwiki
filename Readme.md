@@ -16,7 +16,7 @@ A wiki for React. Covers issue solutions as well as basic concepts of React. Inc
 
 
 ## Topics
-- <a href="https://github.com/nhrrob/reactwiki/blob/master/react-basics.md" target="_blank">React | Basics</a>
+- <a href="https://github.com/nhrrob/reactwiki/blob/master/1-react-basics.md" target="_blank">1. React | Basics</a>
 
 <br>
 
